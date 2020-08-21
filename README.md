@@ -5,3 +5,5 @@ I'm a Salt Lake City, Utah based software engineering and data consultant. With 
 Currently, working at Heartland Dental as a senior software engineer and project manager designing and managing the development of highly scalable next-generation digital marketing and data automation products. As a consultant working with local businesses and startups helping them digitally transform to improve their internal workflows and save money along the way.
 
 I'd like to think I know where all the good tacos and cold beer are here in town.
+
+Feel free to reach out to me at https://adamabernathy.com.
